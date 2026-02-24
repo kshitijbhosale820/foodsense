@@ -45,12 +45,13 @@ Each agent performs a specific task and passes results through a graph-based pip
 
 ##  Tech Stack
 
-* Python
-* Machine Learning
-* Natural Language Processing (NLP)
-* Large Language Models (LLMs)
-* LangGraph
-* Prompt Engineering
+* Python -- Backend Logic
+* Pandas -- Data Preprocessing
+* Streamlit -- Web Interface
+* Ollama -- Local LLM Runtime
+* LangChain -- 	LLM Integration
+* LangGraph -- 	Multi-Agent Workflow
+* Mistral -- Language Model for Reasoning
 
 ---
 
