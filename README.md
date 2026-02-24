@@ -18,6 +18,33 @@ FoodSense AI processes customer review data and performs:
 The system uses a **multi-agent workflow** built with LangGraph, where specialized agents handle different analytical tasks and collaborate to produce a final improvement report.
 
 ---
+##  Setup Instructions
+
+Clone the repository:
+
+git clone https://github.com/kshitijbhosale820/foodsense.git
+
+Go inside project:
+
+cd foodsense
+
+Create virtual environment:
+
+python -m venv venv
+
+Activate venv:
+
+venv\Scripts\activate
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the Streamlit app:
+
+streamlit run app.py
+
+---
 
 ##  Key Features
 

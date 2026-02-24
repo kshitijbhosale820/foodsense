@@ -1,0 +1,5 @@
+Food Reviews Dataset:
+https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews
+
+Recipes Dataset:
+https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews
