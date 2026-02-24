@@ -97,17 +97,21 @@ Install dependencies:
 ```
 pip install -r requirements.txt
 ```
+Install Ollama (for local LLM):
+
+```
+Download from: https://ollama.com
+Then pull a model:
+ollama run mistral
+(You can also use a smaller model like phi)
+Press Ctrl + C after the model loads.
+```
 
 ---
 
 ##  Run the Project
 
 ```
-Install Ollama (for local LLM) Download from: https://ollama.com
-Then pull a model:
-ollama run mistral
-(You can also use a smaller model like phi)
-Press Ctrl + C after the model loads.
 
 Run the application
 
