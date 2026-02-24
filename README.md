@@ -8,7 +8,7 @@ This project demonstrates how modern AI agents can collaborate to transform raw 
 
 ##  Project Overview
 
-FoodSense-AI processes customer review data and performs:
+FoodSense AI processes customer review data and performs:
 
 * Review Summarization
 * Sentiment Analysis
