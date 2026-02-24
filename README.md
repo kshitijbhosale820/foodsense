@@ -139,3 +139,13 @@ FoodSense AI helps businesses:
 
 ---
 
+## 📸 Application Screenshots
+
+### 🔍 Biryani Analysis Example
+![Biryani Analysis](assets/biryani-analysis.png)
+
+### 🍛 Chhole Analysis Example
+![Chhole Analysis](assets/chhole-analysis.png)
+
+---
+
