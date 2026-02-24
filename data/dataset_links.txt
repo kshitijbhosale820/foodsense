@@ -1,5 +1,10 @@
-Food Reviews Dataset:
+FoodSense AI – Dataset References
+
+Reviews Dataset:
 https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews
 
 Recipes Dataset:
 https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews
+
+Note:
+Download CSV files manually and place inside the /data folder.
