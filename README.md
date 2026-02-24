@@ -18,33 +18,7 @@ FoodSense AI processes customer review data and performs:
 The system uses a **multi-agent workflow** built with LangGraph, where specialized agents handle different analytical tasks and collaborate to produce a final improvement report.
 
 ---
-##  Setup Instructions
 
-Clone the repository:
-
-git clone https://github.com/kshitijbhosale820/foodsense.git
-
-Go inside project:
-
-cd foodsense
-
-Create virtual environment:
-
-python -m venv venv
-
-Activate venv:
-
-venv\Scripts\activate
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the Streamlit app:
-
-streamlit run app.py
-
----
 
 ##  Key Features
 
@@ -97,14 +71,9 @@ main.py        → Execution script
 
 Large dataset files are **not uploaded** due to GitHub's 100MB file size limit.
 
-Before running the project, place the following files inside the `data/` folder:
+Due to GitHub file size limits, datasets are not included in this repository.
 
-```
-recipes.csv
-reviews.csv
-```
-
----
+Download datasets from the links provided in: data/dataset_links.txt After downloading, place the files inside the data folder before running the project.
 
 ##  Installation & Setup
 
@@ -133,7 +102,15 @@ pip install -r requirements.txt
 ##  Run the Project
 
 ```
-python main.py
+Install Ollama (for local LLM) Download from: https://ollama.com
+Then pull a model:
+ollama run mistral
+(You can also use a smaller model like phi)
+Press Ctrl + C after the model loads.
+
+Run the application
+
+streamlit run app.py Open the browser link shown in the terminal.
 ```
 
 ---
